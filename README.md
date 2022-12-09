@@ -5,6 +5,8 @@ A collection of JavaScript problems and solutions for studying algorithms
 <br>
 
 __Algorithms__
+- What is an Algorithm?
+- Time and space complexity
 
 
 __Data Structures__
